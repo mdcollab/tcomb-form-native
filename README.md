@@ -864,6 +864,7 @@ The following standard options are available (see http://facebook.github.io/reac
 - `selectionState`
 - `textAlign`
 - `textAlignVertical`
+- `textContentType`
 - `underlineColorAndroid`
 
 ## Checkbox component
